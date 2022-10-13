@@ -4,6 +4,86 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114902Z" creationid="TRA_pico" creationdate="20221013T114845Z">
+        <seg>Les jeux vidéo vous semblent intéressants ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114915Z" creationid="TRA_pico" creationdate="20221013T114915Z">
+        <seg>Cliquez ici pour continuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114912Z" creationid="TRA_pico" creationdate="20221013T114912Z">
+        <seg>Validé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114913Z" creationid="TRA_pico" creationdate="20221013T114913Z">
+        <seg>Pas intéressés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114914Z" creationid="TRA_pico" creationdate="20221013T114914Z">
+        <seg>Pas du tout intéressé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114846Z" creationid="TRA_pico" creationdate="20221013T114846Z">
+        <seg>[Veuillez sélectionner une seule réponse]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114914Z" creationid="TRA_pico" creationdate="20221013T114914Z">
+        <seg>Sélectionnez la meilleure option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114852Z" creationid="TRA_pico" creationdate="20221013T114852Z">
+        <seg>Il n'y a pas de &lt;g1&gt;bonnes&lt;/g1&gt; réponses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114911Z" creationid="TRA_pico" creationdate="20221013T114911Z">
+        <seg>Très intéressé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-ZZ" changeid="TRA_pico" changedate="20221013T114843Z" creationid="TRA_pico" creationdate="20221013T114843Z">
+        <seg>Bienvenue dans cette enquête !</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
