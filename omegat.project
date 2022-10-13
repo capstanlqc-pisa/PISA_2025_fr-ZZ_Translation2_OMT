@@ -2,7 +2,7 @@
 <!DOCTYPE omegat [
   <!ENTITY ORG "capstanlqc-pisa">
   <!ENTITY TARGET_LANG "fr-ZZ">
-  <!ENTITY STEP "Translation1">
+  <!ENTITY STEP "Translation2">
   <!ENTITY THIS_REPO "PISA_2025_&TARGET_LANG;_&STEP;_OMT">
 ]>
 <omegat>
